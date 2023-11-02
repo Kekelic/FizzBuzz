@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">FizzBuzz</string>
+    <string name="empty_string" />
+
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="do_not_have_an_account">Don\'t have an account? Sign up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="already_have_account">Already have an account? Sign in</string>
+    <string name="sign_in_to_start_the_game">Sign in to start the game</string>
+    <string name="sign_up_to_start_the_game">Sign up to start the game</string>
+
+
+    <string name="toggle_drawer">Toggle drawer</string>
+    <string name="leaderboard_is_empty">Leaderboard is empty</string>
+    <string name="history_is_empty">History is empty</string>
+
+    <string name="password_visibility">Password visibility</string>
+
+    <string name="please_enter_username">Please, enter username.</string>
+    <string name="please_enter_email">Please, enter email.</string>
+    <string name="please_enter_password">Please, enter password.</string>
+    <string name="error_invalid_email">The email address is badly formatted.</string>
+    <string name="error_wrong_password">The password is invalid.</string>
+    <string name="error_email_already_in_use">The email address is already in use by another account.</string>
+    <string name="error_weak_password">Password should be at least 6 characters.</string>
+    <string name="error_invalid_credentials">The username or password is invalid</string>
+    <string name="error_user_not_found">There is no user record corresponding to this identifier. The user may have been deleted.</string>
+    <string name="error_user_disabled">The user account has been disabled by an administrator.</string>
+    <string name="error_user_token_expired">The user\'s credential is no longer valid. The user must sign in again.</string>
+    <string name="error_something_went_wrong">Something went wrong. Please try again later.</string>
+    <string name="play">Play</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="history">History</string>
+    <string name="sign_out">Sign out</string>
+    <string name="welcome">Welcome</string>
+    <string name="light_bulb">Light bulb</string>
+    <string name="fizz">Fizz</string>
+    <string name="fizzbuzz">FizzBuzz</string>
+    <string name="buzz">Buzz</string>
+    <string name="next">Next</string>
+    <string name="end_game">End Game</string>
+    <string name="score">score</string>
+    <string name="go_to_home_screen">Go to home screen</string>
+    <string name="you_got_new_score">You got new score. Congrats!</string>
+    <string name="your_old_score_is_better">Your old score is better.</string>
+    <string name="your_score_is_added_to_leaderboard">Your score is added to leaderboard!</string>
+    <string name="you_beat_user_from_top_10">You beat user from top 10. Congrats!</string>
+    <string name="other_10_users_have_better_score">Other top 10 users have better score.</string>
+    <string name="top_10_in_fizzbuzz">Top 10 in FizzBuzz</string>
+    <string name="your_local_history">Your local history</string>
+
+</resources>

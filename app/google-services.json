@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50267757742",
+    "project_id": "fizzbuzz-1c0e8",
+    "storage_bucket": "fizzbuzz-1c0e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50267757742:android:73e4eeb6148383b70ee13f",
+        "android_client_info": {
+          "package_name": "com.example.fizzbuzz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGmnSc0fOc_2BT4Jk-_WJzgaBMT_gbuj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
